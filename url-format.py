@@ -1,5 +1,5 @@
 websites = (
-    "http://google.com",
+    "https://google.com",
     "yahoo.com",
     "bing.com",
     "duckduckgo.com",
